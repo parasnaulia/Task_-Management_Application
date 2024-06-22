@@ -1,0 +1,1 @@
+export const Server="https://task-1-dusky.vercel.app";

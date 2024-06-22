@@ -1,0 +1,86 @@
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin-top: 1rem;
+    /* height: 100%; */
+    width: 90vw;
+    padding: 1rem;
+    color: rgb(19, 19, 19);
+}
+.container1
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(66, 67, 68);
+    border: 1px solid rgb(49, 47, 47);
+    margin-top: 1rem;
+    /* height: 100%; */
+    width: 90vw;
+    padding: 1rem;
+    color: rgb(19, 19, 19);
+}
+.btn
+{
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: rgb(148, 227, 200);
+    /* background-color: aliceblue; */
+}
+.dis
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 90vw;
+    margin-top: 1rem;
+    color:rgb(219, 38, 38) ;
+    border: 2px solid rgb(55, 6, 145);
+    padding: 1rem;
+    gap:1rem;
+
+}
+.dis1
+{
+    display: flex;
+    /* margin-top: 1rem; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-size: 1.5rem;
+}
+.btnCont
+{
+    display: flex;
+    justify-content: space-between;
+    gap:1rem;
+    align-items: center;
+}
+.btn
+{
+    padding: 0.5rem;
+}
+
+.input
+{
+    border-top: 'none';
+    padding: 0.5rem;
+    height: 4rem;
+    width:20vw;
+    border-left: 'none';
+   border-bottom: 1px solid black;
+   margin-top: 0.2rem;
+
+    /* background-color: aquamarine; */
+}
+.bob
+{
+    display: flex;
+    justify-content: space-between;
+}
